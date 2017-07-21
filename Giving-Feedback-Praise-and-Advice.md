@@ -25,3 +25,8 @@
 - [Rainbows and Unicorns](http://randsinrepose.com/archives/rainbows-and-unicorns): by Michael Lopp. Takeaway: advice on giving a compliment—"a selfless, timely, and well-articulated recognition of achievement"—with a breakdown of how compliments work, interwoven with references to video games.
 
 - [7 Tough Lessons I’ve Learned on Giving and Receiving Feedback at Our Startup](https://open.buffer.com/feedback): by Leo Widrich. Takeaway: Understand why humans need feedback; see it as a kindness; consider giving it to be a skill; encourage employees to give it without permission; give role feedback; aim to grow from feedback. "Feedback is how we scale as a company; it’s how we make sure we keep helping each other."
+
+- [On being the employee who “needs improvement”](http://www.virtuouscode.com/2017/07/14/on-being-the-employee-who-needs-improvement/) by Avdi Grimm.
+Takeaway: 
+>"Talk to your people. Don’t wait. Do it now, and never stop. If they are meeting expectations, thank them regularly. If they aren’t meeting your needs or the needs of others in the company, tell them now. Don’t wait until you find yourself identifying “patterns”.
+>Be specific about specific incidents, be open about your feelings, and don’t fall back on the impersonal language of “we” or “the company”"
